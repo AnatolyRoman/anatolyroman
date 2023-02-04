@@ -6,14 +6,24 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/AnatolyRoman" target="_blank" rel="noreferrer"> 
-    <img  hspace="15" src="https://steemitimages.com/p/3W72119s5BjWPGGUiZ9pqnZoj8JHYxCCp9dtn2QVeutFMyS7USjQzFhQBankXumkpSBD1yM1k24zdp3M4hxygjV1CEEMZAfGnBdLVoHgQ94F6JaFe3UCw8?format=match&mode=fit" margin-left=55px alt="telegram" width="41" height="40"/>  
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
     </a>
   <a href="mailto:romantolea75@gmail.com?subject=Data Scientist" target="_blank" rel="noreferrer"> 
-    <img  hspace="15"  src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG11.png"  margin-right=55px alt="telegram" width="60" height="40"/> 
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
    </a>
-   <a href="https://www.facebook.com/ds.anatoly.roman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
+   <a href="https://www.facebook.com/ds.anatoly.roman" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
    </a>
 </p>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
+
+###
 
 
 ![til](https://github.com/z0-xy/z0-xy/blob/main/111.svg)
