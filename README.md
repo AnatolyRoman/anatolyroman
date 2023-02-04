@@ -13,7 +13,7 @@ Connect With Me
   <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
     <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
+  <a href="[https://www.facebook.com/jayant.goel.12/](https://www.facebook.com/profile.php?id=100009258822506)" target="_blank">
     <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
   </a>
   <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
