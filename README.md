@@ -12,11 +12,11 @@
     <img  hspace="15"  src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG11.png"  margin-right=55px alt="telegram" width="60" height="40"/> 
    </a>
   <a href="https://www.facebook.com/profile.php?id=100009258822506" target="_blank" rel="noreferrer"> 
-    <img  hspace="15"  src="https://www.buscopng.com/wp-content/uploads/2021/03/Facebook-logo-circular-1280x1280.png"  margin-right=55px alt="telegram" width="41" height="40"/> 
+    <img  hspace="15"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
    </a>
 </p>
 
-
+<p align="left"> <a href="https://www.facebook.com/ds.anatoly.roman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
 
 ![til](https://github.com/z0-xy/z0-xy/blob/main/111.svg)
 <!-- ![til](![image](https://user-images.githubusercontent.com/89942698/202261913-25e012ac-98d7-4c05-8608-7997d2e6596b.png) -->
@@ -25,26 +25,3 @@
 
 
 
-#
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
-</details>
-<br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
-
-<h4 align="center">
-  
-```diff
