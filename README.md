@@ -5,7 +5,7 @@
  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://t.me/z0_xy](https://t.me/AnatolyRoman)" target="_blank" rel="noreferrer"> 
+  <a href="https://t.me/AnatolyRoman" target="_blank" rel="noreferrer"> 
     <img  hspace="15" src="https://steemitimages.com/p/3W72119s5BjWPGGUiZ9pqnZoj8JHYxCCp9dtn2QVeutFMyS7USjQzFhQBankXumkpSBD1yM1k24zdp3M4hxygjV1CEEMZAfGnBdLVoHgQ94F6JaFe3UCw8?format=match&mode=fit" margin-left=55px alt="telegram" width="41" height="40"/>  
     </a>
   <a href="mailto:romantolea75@gmail.com?subject=Data Scientist" target="_blank" rel="noreferrer"> 
