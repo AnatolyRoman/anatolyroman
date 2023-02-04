@@ -11,7 +11,12 @@
   <a href="mailto:romantolea75@gmail.com?subject=Data Scientist" target="_blank" rel="noreferrer"> 
     <img  hspace="15"  src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG11.png"  margin-right=55px alt="telegram" width="60" height="40"/> 
    </a>
+  <a href="https://www.facebook.com/profile.php?id=100009258822506" target="_blank" rel="noreferrer"> 
+    <img  hspace="15"  src="https://w7.pngwing.com/pngs/168/713/png-transparent-logo-facebook-inc-social-media-nasdaq-fb-seo-blue-text-trademark.png"  margin-right=55px alt="telegram" width="60" height="40"/> 
+   </a>
 </p>
+
+https://w7.pngwing.com/pngs/168/713/png-transparent-logo-facebook-inc-social-media-nasdaq-fb-seo-blue-text-trademark.png
 
 ![til](https://github.com/z0-xy/z0-xy/blob/main/111.svg)
 <!-- ![til](![image](https://user-images.githubusercontent.com/89942698/202261913-25e012ac-98d7-4c05-8608-7997d2e6596b.png) -->
