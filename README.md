@@ -4,7 +4,6 @@
 
 
 
-[![Codewars Badge]([https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer](https://www.codewars.com/users/TerraWoo))
 
 
 
