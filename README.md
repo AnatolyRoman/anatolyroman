@@ -11,12 +11,10 @@
   <a href="mailto:romantolea75@gmail.com?subject=Data Scientist" target="_blank" rel="noreferrer"> 
     <img  hspace="15"  src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG11.png"  margin-right=55px alt="telegram" width="60" height="40"/> 
    </a>
-  <a href="https://www.facebook.com/profile.php?id=100009258822506" target="_blank" rel="noreferrer"> 
-    <img  hspace="15"  src="https://www.buscopng.com/wp-content/uploads/2021/03/Facebook-logo-circular-1280x1280.png" width="32" height="32" /></a></p>
+   <a href="https://www.facebook.com/ds.anatoly.roman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
    </a>
 </p>
 
-<p align="left"> <a href="https://www.facebook.com/ds.anatoly.roman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
 
 ![til](https://github.com/z0-xy/z0-xy/blob/main/111.svg)
 <!-- ![til](![image](https://user-images.githubusercontent.com/89942698/202261913-25e012ac-98d7-4c05-8608-7997d2e6596b.png) -->
